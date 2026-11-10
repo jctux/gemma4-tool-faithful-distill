@@ -1,0 +1,19 @@
+[project]
+name = "kagle-gemma4-agent"
+version = "0.1.0"
+description = "Gemma 4 Developer Agent competition: Claude-distilled LoRA (main + paper track)"
+requires-python = ">=3.11"
+dependencies = [
+    "kaggle>=1.7",
+    "networkx>=3.3",
+    "numpy>=2.0",
+    "pyyaml>=6.0",
+    "mcp>=1.2",
+    "pydantic>=2.0",
+]
+
+[project.optional-dependencies]
+train = ["unsloth", "trl", "peft", "datasets", "transformers"]
+
+[tool.uv]
+package = false

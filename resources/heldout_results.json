@@ -1,0 +1,135 @@
+{
+ "e12b_base_r1": {
+  "n": 12,
+  "resolved": 1,
+  "patches": 8,
+  "timeouts": 5,
+  "mean_calls": 33.1
+ },
+ "e12b_base_r2": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 6,
+  "timeouts": 9,
+  "mean_calls": 30.2
+ },
+ "e12b_base_r3": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 5,
+  "timeouts": 8,
+  "mean_calls": 27.8
+ },
+ "e12b_v2_r1": {
+  "n": 12,
+  "resolved": 1,
+  "patches": 6,
+  "timeouts": 5,
+  "mean_calls": 37.2
+ },
+ "e12b_v2_r2": {
+  "n": 12,
+  "resolved": 1,
+  "patches": 9,
+  "timeouts": 5,
+  "mean_calls": 41.8
+ },
+ "e12b_v2_r3": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 9,
+  "timeouts": 6,
+  "mean_calls": 47.4
+ },
+ "e12b_v2_r4": {
+  "n": 12,
+  "resolved": 1,
+  "patches": 9,
+  "timeouts": 6,
+  "mean_calls": 47.6
+ },
+ "e4b_base": {
+  "n": 12,
+  "resolved": 2,
+  "patches": 10,
+  "timeouts": 1,
+  "mean_calls": 14.9
+ },
+ "e4b_base2": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 11,
+  "timeouts": 0,
+  "mean_calls": 12.1
+ },
+ "e4b_base3": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 10,
+  "timeouts": 1,
+  "mean_calls": 12.2
+ },
+ "e4b_onpol": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 7,
+  "timeouts": 4,
+  "mean_calls": 16.2
+ },
+ "e4b_onpol_r2": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 6,
+  "timeouts": 0,
+  "mean_calls": 7.6
+ },
+ "e4b_onpol_r3": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 4,
+  "timeouts": 1,
+  "mean_calls": 10.4
+ },
+ "e4b_prompt2_r1": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 11,
+  "timeouts": 1,
+  "mean_calls": 13.3
+ },
+ "e4b_prompt2_r2": {
+  "n": 12,
+  "resolved": 1,
+  "patches": 12,
+  "timeouts": 0,
+  "mean_calls": 12.3
+ },
+ "e4b_prompt2_r3": {
+  "n": 12,
+  "resolved": 1,
+  "patches": 12,
+  "timeouts": 0,
+  "mean_calls": 13.4
+ },
+ "e4b_v3c": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 3,
+  "timeouts": 3,
+  "mean_calls": 21.5
+ },
+ "e4b_v3c_r2": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 3,
+  "timeouts": 2,
+  "mean_calls": 24.5
+ },
+ "e4b_v3c_r3": {
+  "n": 12,
+  "resolved": 0,
+  "patches": 2,
+  "timeouts": 1,
+  "mean_calls": 25.3
+ }
+}
